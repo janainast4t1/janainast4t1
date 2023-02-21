@@ -2,7 +2,7 @@
 install.packages("qcc")
 library("qcc")
 help(qcc)
-
+##eedfffff
 data(circuit)
 attach(circuit)
 qcc(x[trial], sizes=size[trial], type="c")
