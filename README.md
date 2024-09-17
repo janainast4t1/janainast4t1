@@ -6,13 +6,9 @@
 
 - 🌱 Atualmente estou aprendendo **Python e SQL**
 
-- 👯 Hoje estou trabalhando com **análise de dados** como autônoma
-
-- 📝 Tenho um perfil no instagram onde compartilho o que aprendi no dia a dia [https://instagram.com/statistic.studies?igshid=ZDdkNTZiNTM=]
-
 - 💬 Me pergunte sobre **Estatística, Análise de Dados, R, Power Bi e Google Data Studio**
 
-- 📫 Você me encontra através do e-mail **janainastvmuniz@gmail.com**
+- 📫 Você me encontra através do e-mail **janainastvmuniz@gmail.com** e linkedin **https://www.linkedin.com/in/jana%C3%ADna-muniz/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
