@@ -1,6 +1,6 @@
 
 <h1 align="center">Oi 👋, Eu sou Janaína</h1>
-<h3 align="center">Apaixonada por análise de dados no mundo financeiro e empresarial</h3>
+
 
 - 🔭 Bacharelanda em **Estatística**
 
