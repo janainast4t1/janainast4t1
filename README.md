@@ -1,20 +1,40 @@
+# Janaína Muniz
+**'Cientista de Dados'**
 
-<h1 align="center">Oi 👋, Eu sou Janaína</h1>
+Olá! Meu nome é Janaína Muniz, sou natural de Teresina, Piauí, e apaixonada por dados e pelo impacto que eles podem gerar nas decisões estratégicas. Sou bacharel em Estatística pela Universidade Federal do Piauí e pós-graduada em Ciência de Dados com ênfase no mercado financeiro pela XP Educação.
 
+Com uma sólida base analítica e experiência em ferramentas como Python, R, SQL, Power BI e Looker Studio, busco transformar dados em insights acionáveis. Tenho interesse especial em análise de dados quantitativos, séries temporais e modelagem preditiva, sempre com foco na aplicação prática para resolver problemas reais.
 
-- 🔭 Bacharelanda em **Estatística**
+Meu objetivo é continuar explorando o universo dos dados, entregando soluções que impulsionem negócios e criem valor. Seja bem-vindo ao meu portfólio, onde compartilho projetos que refletem minha jornada profissional e aprendizado contínuo.
 
-- 🌱 Atualmente estou aprendendo **Python e SQL**
+---
 
-- 💬 Me pergunte sobre **Estatística, Análise de Dados, R, Power Bi e Google Data Studio**
+### 🧰 Languages and Tools
 
-- 📫 Você me encontra através do e-mail **janainastvmuniz@gmail.com** e linkedin **https://www.linkedin.com/in/jana%C3%ADna-muniz/**
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" />
+<img align="left" alt="Looker Studio" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/google_datastudio/google_datastudio-icon.svg" />
+<br />
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://br.linkedin.com/in/jana%C3%ADna-muniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/janaína-muniz" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+### 📂 Projetos
 
+- [**Análise do Preço de Ações**](#)  
+  Realizei uma análise exploratória e preditiva de preços de ações utilizando Python, com modelos de séries temporais como ARIMA e LSTM.  
+
+- [**Impacto da Lei Seca no Piauí**](#)  
+  Estudo estatístico sobre o impacto da Lei Seca na mortalidade por acidentes de trânsito no Piauí, usando R e o Microdatasus.  
+
+- [**Dashboard Financeiro em Power BI**](#)  
+  Construção de um dashboard interativo para análise de desempenho de portfólios de investimentos, com integração de dados SQL e Power BI.
+
+---
+
+### 🌐 Redes
+
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+- [GitHub](https://github.com/seu-perfil)  
