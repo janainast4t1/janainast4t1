@@ -15,7 +15,6 @@ Meu objetivo é continuar explorando o universo dos dados, entregando soluções
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" />
-<img align="left" alt="Looker Studio" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/google_datastudio/google_datastudio-icon.svg" />
 <br />
 <br />
 
