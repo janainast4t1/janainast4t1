@@ -36,5 +36,5 @@ Meu objetivo é continuar explorando o universo dos dados, entregando soluções
 
 ### 🌐 Redes
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+- [LinkedIn](https://www.linkedin.com/in/jana%C3%ADna-muniz/)  
 - [GitHub](https://github.com/seu-perfil)  
