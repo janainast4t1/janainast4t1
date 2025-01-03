@@ -34,6 +34,52 @@ Meu objetivo é continuar explorando o universo dos dados, entregando soluções
 
 ---
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfólio de Análise de Dados</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+  <header class="bg-primary text-white text-center py-4">
+    <h1>Portfólio de Janaína Muniz</h1>
+    <p>Projetos de análise de dados e visualização</p>
+  </header>
+
+  <div class="container my-5">
+    <!-- Projeto 1 -->
+    <div class="mb-4">
+      <h2>Projeto 1: Análise de Preço de Ações</h2>
+      <p>Ferramentas: Python, Pandas, Matplotlib</p>
+      <p>Descrição: Este projeto analisa o comportamento de preços de ações usando séries temporais e técnicas estatísticas.</p>
+      <a href="https://github.com/seu-repositorio" class="btn btn-primary">Ver no GitHub</a>
+      <img src="imagem_do_projeto1.png" alt="Gráfico do Projeto 1" class="img-fluid my-3">
+    </div>
+
+    <!-- Projeto 2 -->
+    <div class="mb-4">
+      <h2>Projeto 2: Previsão de Volume de Negociação</h2>
+      <p>Ferramentas: R, ggplot2</p>
+      <p>Descrição: Neste projeto, foram usados modelos de séries temporais para prever volumes de negociação no mercado financeiro.</p>
+      <a href="https://github.com/seu-repositorio" class="btn btn-primary">Ver no GitHub</a>
+      <iframe width="800" height="600" src="https://app.powerbi.com/view?r=SEU_LINK_DE_INCORPORACAO" frameborder="0" allowFullScreen="true"></iframe>
+    </div>
+
+    <!-- Outros projetos seguem a mesma estrutura -->
+  </div>
+
+  <footer class="bg-light text-center py-4">
+    <p>Desenvolvido por Janaína Muniz | <a href="https://github.com/seuusuario">GitHub</a></p>
+  </footer>
+</body>
+</html>
+
+
+
+
 ### 🌐 Redes
 
 - [LinkedIn](https://www.linkedin.com/in/jana%C3%ADna-muniz/)  
